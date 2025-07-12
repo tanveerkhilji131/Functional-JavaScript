@@ -9,3 +9,5 @@ function outer(){
 }
 let IneerFn = outer();
 console.log(IneerFn()) //my name is tanveer
+
+// this is most imprtent 
